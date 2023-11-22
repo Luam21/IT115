@@ -1,0 +1,12 @@
+{
+    "name": "Luam Redai",
+    "age": 24,
+    "city": "Virginia, USA",
+    "interests": [
+        "Read",
+        "Exercise",
+        "Travel",
+        "I'm a ninja"
+    ],
+    "is student": true
+}
